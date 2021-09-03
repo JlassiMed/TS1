@@ -1,0 +1,14 @@
+C:\Users\Windo\source\repos\TS1\TS1\bin\Debug\netcoreapp3.1\TS1.exe
+C:\Users\Windo\source\repos\TS1\TS1\bin\Debug\netcoreapp3.1\TS1.deps.json
+C:\Users\Windo\source\repos\TS1\TS1\bin\Debug\netcoreapp3.1\TS1.runtimeconfig.json
+C:\Users\Windo\source\repos\TS1\TS1\bin\Debug\netcoreapp3.1\TS1.runtimeconfig.dev.json
+C:\Users\Windo\source\repos\TS1\TS1\bin\Debug\netcoreapp3.1\TS1.dll
+C:\Users\Windo\source\repos\TS1\TS1\bin\Debug\netcoreapp3.1\TS1.pdb
+C:\Users\Windo\source\repos\TS1\TS1\obj\Debug\netcoreapp3.1\TS1.AssemblyInfoInputs.cache
+C:\Users\Windo\source\repos\TS1\TS1\obj\Debug\netcoreapp3.1\TS1.AssemblyInfo.cs
+C:\Users\Windo\source\repos\TS1\TS1\obj\Debug\netcoreapp3.1\TS1.csproj.CoreCompileInputs.cache
+C:\Users\Windo\source\repos\TS1\TS1\obj\Debug\netcoreapp3.1\TS1.dll
+C:\Users\Windo\source\repos\TS1\TS1\obj\Debug\netcoreapp3.1\TS1.pdb
+C:\Users\Windo\source\repos\TS1\TS1\obj\Debug\netcoreapp3.1\TS1.genruntimeconfig.cache
+C:\Users\Windo\source\repos\TS1\TS1\obj\Debug\netcoreapp3.1\TS1.csproj.AssemblyReference.cache
+C:\Users\Windo\source\repos\TS1\TS1\obj\Debug\netcoreapp3.1\TS1.GeneratedMSBuildEditorConfig.editorconfig
